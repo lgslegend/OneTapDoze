@@ -37,7 +37,7 @@
             android:textSize="15dp"/>
 
         <TextView
-            android:text="可以通过 小部件 快捷方式 发送广播 执行命令 \n 自定义广播"
+            android:text="支持Android 6.0 及以上系统，需要root权限 \n 强制进入Doze后状态栏时间更新可能会有延迟，望周知！"
             android:paddingTop="10dp"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"

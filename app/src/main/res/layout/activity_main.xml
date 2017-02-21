@@ -143,7 +143,7 @@
             android:layout_height="wrap_content"
             android:layout_marginTop="20dp"
             android:autoLink="all"
-            android:text="开源地址 \n -> github.com/Noisyfox/NoExclamation"
+            android:text="开源地址 \n -> https://github.com/Jasper-1024/OneTapDoze"
             android:textSize="15sp" />
 
         <TextView

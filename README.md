@@ -7,4 +7,4 @@
 
 ## 关于
 * 个人项目
-
+JasperHale：$ adb shell dumpsys battery unplug $ adb shell dumpsys deviceidle step
